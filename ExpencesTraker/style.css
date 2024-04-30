@@ -1,0 +1,44 @@
+#listItem{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardItem{
+  border: 1px solid darkorange;
+  border-radius: 5px;
+  margin: 15px;
+  padding: 10px;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  width: 550px;
+  
+}
+
+.delete-btn{
+    border: 1px solid darkorange;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 2px;
+    background-color: darkorange;
+    margin-left: 10px;
+    width: 60px;
+    
+}
+
+.edit-btn{
+    border: 1px solid darkorange;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 2px;
+    background-color: green;
+    margin-left: 10px;
+    width: 60px;
+    
+}
+
+
+
+
